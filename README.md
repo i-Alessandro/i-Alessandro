@@ -1,6 +1,6 @@
 # Hello, I'm Alessandro 👋
 
-I'm an italian student currently at ETH Zürich for my master's deegree. I'm passionate about 
+I'm an italian student currently at ETH Zürich for my master's deegree.
 
 ## 🎓Education
 - Bachelor's degree in Mathematical Engineering at Politecnico di Milano
