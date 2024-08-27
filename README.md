@@ -14,7 +14,7 @@ I'm an italian student currently at ETH Zürich for my master's deegree.
 
 ## 💡My skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,matlab,r,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,matlab,r,git)]
 
 ## 📫 How to reach me 
 
