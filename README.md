@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm Alessandro 👋
 
-<!--
-**i-Alessandro/i-Alessandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an italian student currently at ETH Zürich for my master's deegree. I'm passionate about 
 
-Here are some ideas to get you started:
+## 🎓Education
+- Bachelor's degree in Mathematical Engineering at Politecnico di Milano
+- Master's degree in Computational Science and Engineering at ETH Zürich
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projects
+
+1. *Pricing of derivatives using the Heston Model *: This repository contains a Python implementation of the Heston Model, and an example of its calibration using data from the S&P 500 ETF. The model is based on the Carr-Madan pricing method using the Fourier Transform.. [https://github.com/i-Alessandro/Implementation-and-Calibration-of-the-Heston-Model]
+2. *Portfolio Costruction with mixed Integer Programming*: Code for the Python (with Gurobi solver) implementation of the MIP model presented in the paper: "Portfolio Construction Through Mixed-Integer Programming at Grantham, Mayo, Van Otterloo and Company". [Link to the Project]
+
+## 📫 How to reach me 
+
+- LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/alessandro-wiget-aaba8b237/)]
+
+## ⚡ Fun fact 
+- 🏃‍♂️‍➡️Currently training to run a half marathon from zero.
